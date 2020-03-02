@@ -1,0 +1,8 @@
+{
+  "date_and_time_of_the_request": "2020-02-28 18:51:53.377954",
+  "tweet": "hello hi halo",
+  "sentiment": "positive",
+  "probability_from_the_model": 0.99287957,
+  "pre_processing_time": 0.0004303455352783203,
+  "model_inference_time": 0.14041566848754883
+}
